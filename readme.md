@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.JS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=nextdotjs)
 ![Tailwind.CSS](https://img.shields.io/badge/-Tailwind.CSS-333333?style=flat&logo=tailwindcss)
-![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 

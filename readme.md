@@ -24,7 +24,6 @@
 ![Tailwind.CSS](https://img.shields.io/badge/-Tailwind.CSS-333333?style=flat&logo=tailwindcss)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
@@ -36,6 +35,7 @@
 <h3>🎨 &nbsp;Design:</h3>
 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![AdobePhotoShop](https://img.shields.io/badge/-AdobePhotoShop-333333?style=flat&logo=adobephotoshop)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 

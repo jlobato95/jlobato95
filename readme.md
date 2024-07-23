@@ -1,20 +1,16 @@
 <h1>👋 &nbsp;Olá, eu sou o Jean, um desenvolvedor front-end e UX/UI Designer.</h1>
 <p align="center">
 <a href="https://www.instagram.com/jlobato95/"><img src="https://img.shields.io/badge/-@jlobato95-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-dicasparadevs-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Jean%20Lobato-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://portfolio-jeanlobato-2024.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jean-lobato/"><img src="https://img.shields.io/badge/-Jean%20Lobato-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jeancastelobranco@gmail.com"><img src="https://img.shields.io/badge/-jeancastelobranco@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 11 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava Transformice. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
-- 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele. Desde então, crio conteúdo para o Instagram (@dicasparadevs) e para o YouTube. Fico extremamente feliz quando consigo impactar uma pessoa positivamente, e, por isso, gosto tanto de fazer isso.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por automobilismo, especialmente por Fórmula 1, e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+- 👨🏻‍💻 &nbsp; Me chamo Jean, sou um profissional apaixonado por tecnologia e em busca da minha primeira oportunidade na área de TI. Comecei estudar programação em Janeiro de 2022 por meio de cursos gratuitos na internet. Em Maio de 2022 fui aprovado no programa #GoDev da Imã Learning Place, formação programador full stack. Em Janeiro de 2024 comecei a cursar Análise e Desenvolvimento de Sistemas.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvedor front-end ou UI/UX Designer onde posso aplicar meu conhecimento e habilidades em um ambiente dinâmico e colaborativo. Utilizo a stack JavaScript (Node, React, Next.js) para desenvolver.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>

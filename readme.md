@@ -9,7 +9,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Me chamo Jean, sou um profissional apaixonado por tecnologia e em busca da minha primeira oportunidade na área de TI. Comecei estudar programação em Janeiro de 2022 por meio de cursos gratuitos na internet. Em Maio de 2022 fui aprovado no programa #GoDev da Imã Learning Place, formação programador full stack. Em Janeiro de 2024 comecei a cursar Análise e Desenvolvimento de Sistemas.
+- 👨🏻‍💻 &nbsp; Me chamo Jean, sou um profissional apaixonado por tecnologia e em busca da minha primeira oportunidade na área de TI. Comecei estudar programação em Janeiro de 2022 por meio de cursos gratuitos na internet. Em Maio de 2022 fui aprovado no programa #GoDev da Imã Tech, formação programador full stack. Em Janeiro de 2024 comecei a cursar Análise e Desenvolvimento de Sistemas.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvedor front-end ou UI/UX Designer onde posso aplicar meu conhecimento e habilidades em um ambiente dinâmico e colaborativo. Utilizo a stack JavaScript (Node, React, Next.js) para desenvolver.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
@@ -20,8 +20,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=nextdotjs)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Next.JS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=nextdotjs)
+![Tailwind.CSS](https://img.shields.io/badge/-Tailwind.CSS-333333?style=flat&logo=tailwindcss)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
